@@ -1,7 +1,5 @@
 * [Stackoverflow](#stackoverflow)
 
-
-
 <a name="stackoverflow"></a>
 ## Stackoverflow
 

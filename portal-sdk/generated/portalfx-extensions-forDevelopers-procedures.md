@@ -58,7 +58,7 @@ To become an Azure Portal developer, you need to perform the following tasks.
 1. 	Integrate your extension into the Marketplace. 
 In the following images, each icon in the Azure Portal Marketplace is referred to as a Gallery item. Gallery items take the form of a file with the .azpkg extension. You can think of this file as a zip which contains all assets for your gallery item: icons, screenshots, descriptions.
 
-    ![alt-text](../media/placeholder-image.png  "placeholder image")
+    ![alt-text](../media/portalfx-extensions-AzurePortalMarketPlace.png "Azure Portal Marketplace")
 
     * **PROD:** The Marketplace team accepts fully finished .azkpg files from your team and performs upload to Production To onboard your gallery package, send the following email to 1store@microsoft.com.  The subject line should contain “Marketplace Onboarding Request” and the *.azpkg file should be attached to the email, as in the following image.
 

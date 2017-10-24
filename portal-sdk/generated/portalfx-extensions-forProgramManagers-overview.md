@@ -6,7 +6,7 @@
 
 The items that are being developed are named extensions, or blades.  Some examples of blades are in the following image.
 
-![alt-text](../media/placeholder-image.png  "placeholder image")
+![alt-text](../media/portalfx-create/plus-new.png  "Extensions and Blades")
 
 Onboarding a service, or developing a portal extension, has three phases: private preview, public preview, and GA.  The development of a portal can stop at any one of those steps, depending on content.  A portal can also proceed to the next step when it meets the exit criteria for the current step. These phases are discussed in the sections named Private Preview, Public Preview, and GA.
 
